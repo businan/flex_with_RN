@@ -28,7 +28,7 @@ Project aims to create flex layout with React Native.
 
 ##  Outcome
 
-- GitHub repo link : 🔥 [GitHub](https://github.com/businan/flex_with_RN) 🔥
+
 
 - Expo website link : 🔥 [Expo](https://snack.expo.io/jqbXQHh3y) 🔥
 
