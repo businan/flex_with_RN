@@ -14,7 +14,8 @@ Project aims to create flex layout with React Native.
 
 ## Expected Outcome
 
-![Project 000 Snapshot](example.png)
+**<p align="center">![Project 000 Snapshot](example.png)</p>**
+
 
 
 ## Steps to Solution
